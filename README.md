@@ -1,16 +1,7 @@
-# th3
+# Thực hành 3: Cảm biến Ánh sáng (Light Sensor)
+Nhiệm vụ: Đo cường độ sáng nơi bạn ở để làm đèn ngủ tự động.
 
-A new Flutter project.
+Nguyên lý ứng dụng
+Photodiode (Đi-ốt quang) trên mặt trước điện thoại chuyển đổi photon ánh sáng thành dòng điện. Dòng điện càng lớn -> ánh sáng càng mạnh (đơn vị Lux).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
